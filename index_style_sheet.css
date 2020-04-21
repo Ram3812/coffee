@@ -11,7 +11,7 @@ body{
             
 .card-container{
 	position: relative;
-	
+	margin: 15px;
 	perspective: 200rem;
 	height: 385px;
 }
